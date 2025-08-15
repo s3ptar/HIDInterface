@@ -1,0 +1,15 @@
+{
+  "WLAN":{
+    "connections_retry":3,
+    "Networks":[
+      {
+        "SSID": "SmartThing",
+        "PASS": "iotistdoof"
+      }
+    ],
+    "AP":{
+      "SSID": "Fallback",
+      "PASS": "FallBackPass"    
+    }
+  }
+}
